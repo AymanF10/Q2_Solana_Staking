@@ -1,6 +1,4 @@
-# Solana NFT Staking Program - Technical Readme
-
-![Program Architecture Diagram](https://via.placeholder.com/1200x600.png?text=NFT+Staking+System+Architecture)
+# Solana NFT Staking Program 
 
 ## Table of Contents
 1. [Protocol Overview](#protocol-overview)
